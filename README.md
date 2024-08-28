@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Jiayao.
 
-I am full-stack developer.
+A full-stack developer.
 
 
 ## Skills
