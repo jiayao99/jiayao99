@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Jiayao.
 
-A full-stack developer.
+Full stack developer, ML enthusiast.
 
 
 ## Skills
